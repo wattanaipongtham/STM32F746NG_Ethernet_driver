@@ -1,0 +1,6 @@
+../Core/Src/ethernet_driver.c:33:15:dev_lock	0	static
+../Core/Src/ethernet_driver.c:46:15:dev_unlock	0	static
+../Core/Src/ethernet_driver.c:52:6:ethernet_gpio_init	4	static
+../Core/Src/ethernet_driver.c:116:15:write_phy_reg	4	static
+../Core/Src/ethernet_driver.c:176:15:read_phy_reg	4	static
+../Core/Src/ethernet_driver.c:237:15:config_mac	12	static

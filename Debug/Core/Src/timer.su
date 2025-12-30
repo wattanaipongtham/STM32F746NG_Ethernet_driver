@@ -1,0 +1,2 @@
+../Core/Src/timer.c:34:6:system_clock_initial	0	static
+../Core/Src/timer.c:94:6:timer5_init	4	static
